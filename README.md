@@ -4,7 +4,7 @@
 <table align=center>
   <tr>
     <td align=center><a href="https://web.telegram.org/z/">Telegram<br/></a>@ElenaAndreOlen</td>
-    <td align=center><a href="elenaolen92@mail.ru">Gmail<br/>elenaolen92@mail.ruV</a></td>
+    <td align=center><a href="elenaolen92@mail.ru">Gmail<br/>elenaolen92@mail.ru</a></td>
   </tr>
 </table>
 
